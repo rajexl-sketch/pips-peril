@@ -1,0 +1,25 @@
+Pip's Peril
+Copyright (c) 2026 rajexl-sketch (rajexl@gmail.com). All rights reserved
+except as granted under the accompanying LICENSE (PolyForm
+Noncommercial License 1.0.0).
+
+ORIGINALITY STATEMENT
+
+All content in this repository -- including the character designs
+(Pip, Bloop, Flit, Sheldon, Springle, Rammet, Spitterbud, King Grum),
+world and level names, level layouts, pixel art (encoded as text
+grids), the bitmap font, music compositions, and sound effect designs
+-- is original work created for this project. The game is an homage
+to the 1980s side-scrolling platformer genre and does not reproduce
+any third-party character, asset, level geometry, or composition.
+
+Pip's Peril, its characters, and its world names are the intellectual
+property of the copyright holder. Commercial use of any part of this
+project requires separate written permission (see LICENSE).
+
+THIRD-PARTY SOFTWARE
+
+This project depends on the Phaser 3 game framework (MIT license,
+(c) Photon Storm Ltd) and is built with Vite and TypeScript (MIT
+licenses). These dependencies are not distributed in this repository;
+they are fetched from npm at build time under their own licenses.

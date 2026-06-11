@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Local tooling / editor state
+.claude/
+.vscode/
+.idea/
+*.local
+
+# Internal dev tracking (not part of the published game)
+tasks/
+
+# OS noise
+Thumbs.db
+.DS_Store
+
+# Logs
+npm-debug.log*
+*.log
